@@ -1,15 +1,4 @@
-<h1 align="center">Hi, I'm Matt 👋</h1>
-
-<p align="center">
-I'm a second year Computer Science major and Mathematics minor at Villanova University.
-</p>
-
-<p align="center">
-I have experience developing software as an Undergraduate Research Fellow and am a member of the Programming Team and Formula SAE team.  
-I'm especially interested in software engineering and AI/ML, and I’m always building projects to expand my skills.
-</p>
-
----
+<h3>Hi, I'm Matt</h3> <p align="left">I'm a second year Computer Science major and Mathematics minor at Villanova University. I have experience developing software as an Undergradate Research Fellow. I am also a part of the Programming Team and the Formula SAE team. I have a strong interest in software engineering and AI/ML, with the goal of building my career in these areas. I'm always working on personal or group projects to further my knowledge. As a result, I've gained experience across a wide range of languages, frameworks, and other technologies. This includes Python, C++, Java, React, Node.js, Docker, AWS, Pytorch, and many more! <p> <p align="left"> </p>
 
 <h3 align="left">🚀 Languages and Tools:</h3>
 
@@ -44,22 +33,3 @@ I'm especially interested in software engineering and AI/ML, and I’m always bu
 <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></a>
 
 </div>
-
----
-
-<h3 align="left">📈 What I'm Working On</h3>
-
-<ul>
-<li>Building AI/ML projects (PyTorch, computer vision, LLMs)</li>
-<li>Developing full-stack applications with React & Node.js</li>
-<li>Exploring distributed systems and cloud (AWS, Docker)</li>
-</ul>
-
----
-
-<h3 align="left">📫 Connect With Me</h3>
-
-<p>
-<a href="https://www.linkedin.com/">LinkedIn</a> •
-<a href="mailto:your-email@example.com">Email</a>
-</p>
