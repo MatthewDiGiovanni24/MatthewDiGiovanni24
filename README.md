@@ -48,6 +48,3 @@ I'm a third year Computer Science major and Mathematics minor at Villanova Unive
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/MatthewDiGiovanni24">MatthewDiGiovanni24</a></i></p>
