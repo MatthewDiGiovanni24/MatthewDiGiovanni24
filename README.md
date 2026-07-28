@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-I'm a third year Computer Science major and Mathematics minor at Villanova University. I have experience developing software as a software engineer intern at NASA and as an Undergraduate Research Fellow. I am captain of the Programming Team and a programmer for the Formula SAE team at Villanova University. I'm always working on personal, team, or open source projects to further my knowledge. As a result, I've gained experience across a wide range technologies such as distributed systems, embedded systems, databases, mobile/web apps, and many more!
+I'm a third year Computer Science major and Mathematics minor at Villanova University. I have experience developing software as a software engineer intern at NASA and as an Undergraduate Research Fellow. I am captain of the Programming Team and a data acquisition engineer for the Formula SAE team at Villanova University. I'm always working on personal, team, or open source projects to further my knowledge. As a result, I've gained experience across a wide range technologies such as distributed systems, embedded systems, databases, mobile/web apps, and many more!
 
 ### 🛠️ Tech Stack
 
